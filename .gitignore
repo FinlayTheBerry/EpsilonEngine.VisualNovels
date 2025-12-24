@@ -1,5 +1,5 @@
-EpsilonEngine/bin/
-EpsilonEngine/obj/
+bin/
+obj/
 .git/
 .vs/
 *.user
